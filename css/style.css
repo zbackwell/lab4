@@ -1,0 +1,15 @@
+#map {
+    height: 1000px;
+}
+
+pa {
+    margin: 0 auto;
+    font-weight: 800;
+    font-size: 20;
+    text-align: center;
+    display: block;
+}
+
+b {
+    font-weight: 800;
+}
