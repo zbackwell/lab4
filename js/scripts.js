@@ -74,7 +74,7 @@ function createPropSymbols(data){
 };
 
 // import the cities data
-fetch('https://github.io/zbackwell/lab4/data/USA_Major_Cities.geojson')
+fetch('https://zbackwell.github.io/lab4/data/USA_Major_Cities.geojson')
     .then(function(response){
         return response.json();
     })
